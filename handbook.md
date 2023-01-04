@@ -1,5 +1,3 @@
-# Digital Head Quarter
-
 管理員手冊 - Endeavor
 ===
 > DHQ Admin Handbook - Endeavor
